@@ -3,7 +3,7 @@ import os,re,requests,wget,sys
 """
 		--------------------------- PaulNgei --------------------------------------
 	> python pydownloadfb.py -u URL # This will save the video in default windows download folder.
-	> python pydownloadfb.py -u URL -p PATH #Choose your path (Recommended)
+	> python pydownloadfb.py -u URL -p PATH Recomeded path to save video
 """
 
 class Fbdownloader() :
